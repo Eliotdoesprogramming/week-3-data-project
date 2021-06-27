@@ -10,10 +10,15 @@ matplotlib = "*"
 statsmodels = "*"
 altair = "*"
 sklearn = "*"
+seaborn = "*"
+graphviz = "*"
+pydotplus = "*"
+mglearn = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.9"
+
 [scripts]
 makebook = "touch notebook.ipynb"
