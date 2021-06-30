@@ -12,4 +12,3 @@ data cleaning steps:
 11. Encode education to 0 being non graduate, 1 being graudate
 12. Encode Married to 0 for not Married, 1 for Married
 13. Encode Self Employed to 0 for no, 1 for yes
-14.
